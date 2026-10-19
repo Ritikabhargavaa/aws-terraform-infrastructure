@@ -36,7 +36,7 @@ Supporting infrastructure includes VPC networking, public subnets, routing, secu
 <!-- Save your image in the repository as architecture.png -->
 
 <p align="center">
-  <img src="architecture.png" alt="AWS infrastructure provisioned using Terraform" width="850"/>
+  <img src="AWS Terraform Infra.jpg" alt="AWS infrastructure provisioned using Terraform" width="850"/>
 </p>
 
 ## 🎯 Project Objectives
